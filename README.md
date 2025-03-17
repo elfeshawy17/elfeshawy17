@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hi 👋, I'm Mohamed Elfeshawy</h1>
 
 ###
 
-<p align="left">My name is Mohamed Elfeshawy and I'm a software engineer</p>
+<p align="left">Software engineer | Backend Developer</p>
 
 ###
 
@@ -41,6 +41,26 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
+
+###
+
+## 📈 GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=react&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=react&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=react&hide_border=true" />
+</p>
+
+###
+
+## 🌐 Connect with Me:
+
+<p align="center">
+  <a href="[https://linkedin.com/in/your-profile](https://www.linkedin.com/in/mohamed-elfeshawy-9066b11b4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:elfeshawy2001@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/elfeshawy17" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
+</p>
 
 ###
 
