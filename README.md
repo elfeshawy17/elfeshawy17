@@ -14,10 +14,6 @@
 
 ###
 
-<h2 align="left">I code with</h2>
-
-###
-
 ## 🛠️ Tech Stack:
 
 ### 💻 Programming Languages
