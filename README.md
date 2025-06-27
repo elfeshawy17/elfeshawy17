@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Software engineer | Backend Developer</p>
+<p align="left">Software engineer</p>
 
 ###
 
