@@ -66,14 +66,6 @@ I am a **dedicated backend developer** with a deep passion for crafting **scalab
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=elfeshawy17&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" />
-</div>
-
----
-
 ## 🤝 Let's Connect & Collaborate
 
 <div align="center">
